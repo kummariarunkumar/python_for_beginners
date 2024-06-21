@@ -1,4 +1,3 @@
-Understood. I'll create a simple README file focusing on the basics of your Python learning repository.
 
 ```markdown
 # Basic Python Programs Repository
