@@ -42,5 +42,3 @@ Contributions are welcome! If you have any programs that you think should be inc
 ## License
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 ```
-
-Feel free to replace "yourusername" and "your-repository-name" with the actual username and repository name. If you have any specific programs or additional details you would like to include, let me know!
